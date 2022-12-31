@@ -1,6 +1,10 @@
 # WarehouseWreckage
 FEATURES
 --------
+- 3D warehouse setting
+- First person player character
+- Shootable projectiles w/ limited ammo
+- Ability to restart game.
 
 INSTALLATION INSTRUCTIONS
 -------------------------
